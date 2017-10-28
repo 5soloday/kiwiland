@@ -1,0 +1,19 @@
+name: "KIWILand"
+authors: ["PS88", GoldBigDragon"]
+main: mpm\IsLandMain
+api:
+ - 3.0.0-ALHPA1
+ - 3.0.0-ALHPA2
+ - 3.0.0-ALPHA3
+ - 3.0.0-ALHPA4
+ - 3.0.0-ALHPA5
+ - 3.0.0-ALHPA6
+ - 3.0.0-ALHPA7
+ - 3.0.0-ALHPA8
+ - 3.0.0-ALHPA9
+ - 3.0.0-ALHPA10
+version: "Beta1"
+
+command: 
+  섬:
+    permission: KIWILand
